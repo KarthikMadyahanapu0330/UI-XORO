@@ -1,0 +1,27 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url("https://img.freepik.com/free-vector/abstract-transparent-polygonal-background_1055-7778.jpg?t=st=1729248568~exp=1729252168~hmac=57b39a3d76ad1cd0fbe76e88de5a466e877c137f960edc39e43e764a039fea5c&w=740");
+  width: 100vw;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 20px;
+  background: transparent;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  background-color: aqua;
+  font-size: 30px;
+  padding: 10px;
+}
